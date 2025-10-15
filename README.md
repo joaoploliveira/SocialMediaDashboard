@@ -9,7 +9,7 @@
 <h2 align="center">Social Media Dashboard</h2>
 
   <p align="center">
-    Centro Universitário ETEP - Módulo III - Desenvolvimento de Programas
+    Centro Universitário ETEP - Módulo III - 2023 - Desenvolvimento de Programas
     <br />
   </p>
 </div>
